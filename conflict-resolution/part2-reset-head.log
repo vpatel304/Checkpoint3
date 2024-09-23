@@ -1,0 +1,7 @@
+From https://github.com/vpatel304/Checkpoint3
+ * branch            main       -> FETCH_HEAD
+   8ce1fa5..382eb59  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	conflict-resolution/index.html
+Please commit your changes or stash them before you merge.
+Aborting
