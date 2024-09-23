@@ -1,0 +1,2 @@
+PART 3:
+In this section, I resolved a merge conflict in the index.html file after modifying it in a feature branch named feat-body-text. I pushed my changes to GitHub, then created a conflict by altering the same section of the file directly on GitHub. Upon attempting to pull the latest changes, I encountered conflict markers in VSCode. I used the merge editor to combine both changes and resolved the conflict. Finally, I committed the resolved file and pushed the updates back to the remote repository.
